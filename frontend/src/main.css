@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Nunito&display=swap');
+html, body {
+  background: linear-gradient(to right top, turquoise, blue);
+  font-family: 'Nunito';
+  height: 100%;
+}
